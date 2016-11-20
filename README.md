@@ -8,7 +8,7 @@ Domestic Interest Rates
 
 |No|Name|Title|Type|Unit of Measure|Description|
 |---|---|----|---|---|---|
-|1  |end_of_year|End of year|Datetime (Year) "YYYY"     | 	 
+|1  |end_of_year|End of year|Datetime (Year)   "YYYY"     | 	 
 |2	|interbank_overnight|Interbank Overnight|Numeric (Percent)|% p.a.|	 
 |3	|interbank_1w|Interbank 1-Week|Numeric (Percent)|% p.a.|	 
 |4	|interbank_1m|Interbank 1-Month|Numeric (Percent)|% p.a.|	 
